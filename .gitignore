@@ -7,20 +7,20 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-backend/node_modules
-frontend/node_modules
+Backend/node_modules
+Frontend/node_modules
 
-backend/dist
-backend/dist-ssr
-frontend/dist
-frontend/dist-ssr
+Backend/dist
+Backend/dist-ssr
+Frontend/dist
+Frontend/dist-ssr
 dist-ssr
 
 .env
 .env.local
 .env.*.local
-backend/.env
-frontend/.env
+Backend/.env
+Frontend/.env
 
 .vscode/*
 !.vscode/extensions.json
